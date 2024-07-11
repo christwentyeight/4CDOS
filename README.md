@@ -1,10 +1,8 @@
 # 4CDOS
 
-A fake operating system or "easier" to use linux terminal/
-
 ## Description
 
-4CD OS is a command-based program simulating a simple operating system with basic file operations and utilities.
+4CDOS is a command-based program simulating a simple operating system with basic file operations and utilities.
 The program includes a boot sequence, user authentication, and various commands to navigate and manipulate the file system.
 
 This github page is the only official place to download this program.
