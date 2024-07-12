@@ -16,6 +16,7 @@ This github page is the only official place to download this program.
 - Command history and help
 - Disk usage information
 - Date and time display
+- Basic system configuration
 
 ## Requirements
 
@@ -41,6 +42,8 @@ pip install pillow
 tar -xf 4CDOS.tar.gz
 ```
 
+- Or Extract the zip file with your GUI
+
 ## How To Run
 
 - cd into the directory that contains the 4CDOS.py folder then run:
@@ -54,6 +57,7 @@ python3 4CDOS.py
 - For subsequent logins, you will be prompted to enter your username and password to access the system.
 
 - Run the command 'help' to see all available commands and their usages.
+- Run the command config4cdos to configure the settings.
 
 
 ## License
